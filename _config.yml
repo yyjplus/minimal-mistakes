@@ -15,10 +15,10 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Site Title"
+locale                   : "zh-CN"
+title                    : "JY罗杰的小书房"
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "JY罗杰"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -106,10 +106,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  name             : "JY罗杰"
+  avatar           : "/assets/images/JYSelfie.jpg"
+  bio              : "正在修炼"
+  location         : "还在地球上"
   email            :
   links:
     - label: "Email"
@@ -130,7 +130,7 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-
+og_image: "/assets/images/JYSelfie.jpg"
 # Site Footer
 footer:
   links:
